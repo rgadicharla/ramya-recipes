@@ -1,5 +1,5 @@
 ---
-title: Welcome to my recipes page
+title: Welcome to my recipes
 description: sharing family and personal recipes
 ---
 
